@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+p{
+    color: red;
+    
+}
+
+.rrr{
+    color: blue;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+    
+}
+
+#ggg{
+    color: green;
+    text-align: right;
+}
